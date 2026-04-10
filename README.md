@@ -52,4 +52,4 @@ By creating and using this dashboard, you will learn:
 * How to use filters for exploratory analysis
 
 Author:
-Vaidehi Gurav
+Aishwarya Shinde
